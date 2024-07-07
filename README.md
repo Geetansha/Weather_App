@@ -1,6 +1,6 @@
 # Weather App
 
-Check the current weather on any city on the planet.
+Check the current weather of any city.
 
 ![Alt img](./readmeSS/Light.png)
 ![Alt img](./readmeSS/Dark.png)
@@ -11,7 +11,7 @@ The app is developed using React.js and TailwindCSS
 
 ## 💻 Live Demo:
 
-https://weatherapp0505.vercel.app/
+https://weatherapp1902.netlify.app/
 
 <br/>
 
